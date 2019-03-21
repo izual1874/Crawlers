@@ -7,6 +7,7 @@ class QcwySpider(scrapy.Spider):
     name = 'qcwy'
     # allowed_domains = ['www.51job.com', 'https://search.51job.com', 'https://jobs.51job.com']
     start_urls = ['https://search.51job.com/list/000000,000000,0000,00,9,99,python,2,1.html']
+    #可以换成自己所需要爬取的
 
     def parse(self, response):
         jobs = response.xpath('//div[@id="resultList"]/div/p/span/a/@href').extract()
