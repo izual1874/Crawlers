@@ -7,6 +7,7 @@
 
 
 import pymongo
+from .items import Qcwy51JobItem
 from logging import getLogger
 
 
@@ -26,12 +27,12 @@ class MongoPipeline(object):
     def open_spider(self, spider):
         self.client = pymongo.MongoClient(self.mongo_uri)
         self.db = self.client[self.mongo_db]
-
+        self.db[Qcwy51JobItem.collection].create_index([('url', pymongo.ASCENDING)])
 
 
     def process_item(self, item, spider):
-        self.db[item.collection].insert(dict(item))
-        self.logger.debug('save')
+        # self.db[item.collection].insert(dict(item))
+        self.db[item.collection].update({'url': item.get('url')}, {'$set': item}, True)
         return item
 
     def close_spider(self, spider):

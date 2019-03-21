@@ -2,6 +2,7 @@
 import scrapy, re
 from scrapy import Request
 from qcwy_51job.items import Qcwy51JobItem
+from logging import getLogger
 
 class QcwySpider(scrapy.Spider):
     name = 'qcwy'
@@ -24,28 +25,21 @@ class QcwySpider(scrapy.Spider):
             item['title'] = response.xpath('//div[@class="tHeader tHjob"]/div/div/h1/@title').extract_first()
             item['salary'] = response.xpath('//div[@class="tHeader tHjob"]/div/div/strong/text()').extract_first()
             item['company'] = response.xpath('//p[@class="cname"]/a/@title').extract_first()
-            msg_ltype = response.xpath('//p[@class="msg ltype"]/@title').extract_first() 
-            fuli = response.xpath('//span[@class="sp4"]/text()').extract()
-            msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/p/text()').extract()
             item['com_nature'] = response.xpath('//div[@class="com_tag"]/p[1]/text()').extract_first()
             item['com_p'] = response.xpath('//div[@class="com_tag"]/p[2]/text()').extract_first()
-            msg_list = [i.strip() for i in msg_ltype.split('|')]
+            fuli = response.xpath('//span[@class="sp4"]/text()').extract()
             item['fuli'] = '，'.join(fuli)
+            msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/p/text()').extract()
+            if msg_job == []:
+                msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/text()').extract()
+                msg_job = re.findall('(\S+)', ''.join(msg_job))
             item['msg_job'] = ' '.join(msg_job)
-            if len(msg_list) == 5:
-                item['area'] = msg_list[0]
-                item['exp'] = msg_list[1]
-                item['xueli'] = msg_list[2]
-                item['count'] = msg_list[-2]
-                item['date'] = msg_list[-1]
-            elif len(msg_list) == 4:
-                item['area'] = msg_list[0]
-                item['exp'] = '无'
-                item['count'] = msg_list[-2]
-                item['date'] = msg_list[-1]
-                if '专科' in ','.join(msg_job):
-                    item['xueli'] = '大专'
-                else:
-                    item['xueli'] = 'msg_job中'
+            msg_ltype = response.xpath('//p[@class="msg ltype"]/@title').extract_first() 
+            if isinstance(msg_ltype, str):
+                item['exp'] = ''.join(re.findall('(无工作经验|\d-\d年经验|\d年经验)', msg_ltype))
+                item['xueli'] = ''.join(re.findall('(大专|本科|硕士|博士)', msg_ltype))
+                item['count'] = ''.join(re.findall('(若干人|招\d+人)', msg_ltype))
+                item['date'] = re.findall('(\d\d-\d\d发布)', msg_ltype)[0]
+                item['area'] = [i.strip() for i in msg_ltype.split('|')][0]
 
             yield item
