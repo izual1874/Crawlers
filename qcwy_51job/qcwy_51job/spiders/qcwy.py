@@ -29,10 +29,12 @@ class QcwySpider(scrapy.Spider):
             item['com_p'] = response.xpath('//div[@class="com_tag"]/p[2]/text()').extract_first()
             fuli = response.xpath('//span[@class="sp4"]/text()').extract()
             item['fuli'] = '，'.join(fuli)
-            msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/p/text()').extract()
+            msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/p/span/text()')
             if msg_job == []:
-                msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/text()').extract()
-                msg_job = re.findall('(\S+)', ''.join(msg_job))
+                msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/p/text()')
+                if msg_job == []:
+                    msg_job = response.xpath('//div[@class="bmsg job_msg inbox"]/text()')
+            msg_job = re.findall('(\S+)', ''.join(msg_job))
             item['msg_job'] = ' '.join(msg_job)
             msg_ltype = response.xpath('//p[@class="msg ltype"]/@title').extract_first() 
             if isinstance(msg_ltype, str):
