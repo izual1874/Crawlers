@@ -90,5 +90,5 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-MONGO_URI = '47.99.205.188:27017'
+MONGO_URI = '127.0.0.1:27017'
 MONGO_DB = 'JOB'
