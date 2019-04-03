@@ -1,4 +1,4 @@
-# 关于 API&oauth 签名的问题
+# 关于 API&oauth 1.0 签名的问题
 - oauth 1.0
 - 参考资料。https://oauth.net/core/1.0a/#RFC2617
 

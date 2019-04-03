@@ -29,5 +29,4 @@ def urlencode_hmacsha1(encode_str):
     return to_hex
 
 a = '%2F9aBPAqTZ9pOxNtRmkDJ8Ci111A%3D'
-
 print(urlencode_hmacsha1(a))
