@@ -1,0 +1,3386 @@
+{
+    "result": [
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1792326733&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/4906f20df48b8050a95a852b59f97403.png",
+                                "http://file.baixing.net/201607/1a9857bf46a5c1b7fd3701e588290333.jpg"
+                            ],
+                            "company": "上海浦岩石油化工有限公司",
+                            "hasVideo": false,
+                            "image": "http://img4.baixing.net/9ef674741d14daf3b0eadfb9595cb7b7.png_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "31.143125876179",
+                            "lng": "121.50308581285",
+                            "meta": "",
+                            "time": "1553951759",
+                            "title": "上海柴油配送，柴油批发，浦岩柴油，全上海柴油配送",
+                            "updateTimeString": "8天前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u174704530",
+                                "image": "http://img4.baixing.net/cc111f5197053ddbfd53a1b5213161d6.jpg_180x180",
+                                "mobile": "13681658369",
+                                "subtitle": "上海",
+                                "title": "柴油配送13681658369"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1792326733",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1792326733",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1792326733",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=13681658369&adId=1792326733",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1113294917&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/3909d76c51298e6408c55af4e660ea5a.png",
+                                "http://file.baixing.net/201607/bb9546f63cafc07b50541a4edc391456.png"
+                            ],
+                            "company": "上海夷水实业有限公司",
+                            "hasVideo": true,
+                            "image": "http://img6.baixing.net//9e71559a3d3ae30ed616b68d99795aa2.png_180x180",
+                            "labels": [
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/ae6095993b7653d210e3b48bba59f3e8.png"
+                                },
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/287290442d89b707971abe64f98f07ae.png"
+                                },
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/a3255bab9f7355e79a2d3723a5bb66ed.png"
+                                }
+                            ],
+                            "lat": "31.140826372383",
+                            "lng": "121.30049750546",
+                            "meta": "",
+                            "time": "1553421303",
+                            "title": "天然桶装水专业配送，松江闵行长宁徐汇黄埔青浦普陀静",
+                            "updateTimeString": "3月24日",
+                            "user": {
+                                "badges": [],
+                                "id": "u198202633",
+                                "image": "http://img4.baixing.net/31a8dd9e821a2837463dbc0db3b61457.jpg_180x180",
+                                "mobile": "17749730073",
+                                "subtitle": "上海",
+                                "title": "鹅匠水业～天然饮用水"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1113294917",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1113294917",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1113294917",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "0"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=17749730073&adId=1113294917",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1366157348&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/4906f20df48b8050a95a852b59f97403.png",
+                                "http://file.baixing.net/201607/5683fd9489802e15d89b99f448609d94.png"
+                            ],
+                            "company": "上海浦涛石油化工有限公司",
+                            "hasVideo": false,
+                            "image": "http://img5.baixing.net/a2afc0bb6d27e47e3c81cc245926f1c0.png_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554689474",
+                            "title": "柴油配送 柴油批发与零售公司15216767521",
+                            "updateTimeString": "12分钟前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u227272086",
+                                "image": "http://img5.baixing.net/415ebbe96903116aecd67110731c8078.png_180x180",
+                                "mobile": "15216767521",
+                                "subtitle": "上海",
+                                "title": "上海浦涛石油"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1366157348",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1366157348",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1366157348",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=15216767521&adId=1366157348",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1366137327&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/4906f20df48b8050a95a852b59f97403.png",
+                                "http://file.baixing.net/201607/5683fd9489802e15d89b99f448609d94.png"
+                            ],
+                            "company": "上海浦涛石油化工有限公司",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/5a7e365e8aa7a5e018919a7adf4c64d6.png_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554689412",
+                            "title": "上海柴油配送公司 24H电话15216767521",
+                            "updateTimeString": "13分钟前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u227272086",
+                                "image": "http://img5.baixing.net/415ebbe96903116aecd67110731c8078.png_180x180",
+                                "mobile": "15216767521",
+                                "subtitle": "上海",
+                                "title": "上海浦涛石油"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1366137327",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1366137327",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1366137327",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=15216767521&adId=1366137327",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1792299321&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/4906f20df48b8050a95a852b59f97403.png",
+                                "http://file.baixing.net/201607/5683fd9489802e15d89b99f448609d94.png"
+                            ],
+                            "company": "上海浦岩石油化工有限公司",
+                            "hasVideo": false,
+                            "image": "http://img4.baixing.net/fd1d7cd4315ab7f57b06cc0446903912.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554689361",
+                            "title": "上海柴油_选浦岩油_配送柴油13681658369",
+                            "updateTimeString": "14分钟前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u174704530",
+                                "image": "http://img4.baixing.net/cc111f5197053ddbfd53a1b5213161d6.jpg_180x180",
+                                "mobile": "13681658369",
+                                "subtitle": "上海",
+                                "title": "柴油配送13681658369"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1792299321",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1792299321",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1792299321",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=13681658369&adId=1792299321",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1366146956&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/4906f20df48b8050a95a852b59f97403.png",
+                                "http://file.baixing.net/201607/5683fd9489802e15d89b99f448609d94.png"
+                            ],
+                            "company": "上海浦涛石油化工有限公司",
+                            "hasVideo": false,
+                            "image": "http://img4.baixing.net/327cb1132ff0ff974a866cfd0045741d.png_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554678248",
+                            "title": "浦东新区柴油配送，柴油批发15216767521",
+                            "updateTimeString": "3小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u227272086",
+                                "image": "http://img5.baixing.net/415ebbe96903116aecd67110731c8078.png_180x180",
+                                "mobile": "15216767521",
+                                "subtitle": "上海",
+                                "title": "上海浦涛石油"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1366146956",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1366146956",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1366146956",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=15216767521&adId=1366146956",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1147538106&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/da51299d5d5979279b1f15f43f092245.png"
+                            ],
+                            "company": "上海玉祝贸易有限公司",
+                            "hasVideo": true,
+                            "image": "http://img5.baixing.net/d56a1e0df94d59911856141eb6c007a2.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554638893",
+                            "title": "上海食用冰块全市供应配送021-56096829",
+                            "updateTimeString": "14小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u135671285",
+                                "image": "http://img5.baixing.net/19c6ca2b1678634a2183517dcdc6bb93.jpg_180x180",
+                                "mobile": "021-56096829",
+                                "subtitle": "上海",
+                                "title": "上海东琳降温冰块食用冰块干冰配送公司"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1147538106",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1147538106",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1147538106",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "1"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-56096829&adId=1147538106",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1106176586&vadStyle=dawn",
+                    "billing": {
+                        "onDisplay": [
+                            {
+                                "token": "cpm_c2hhbmdoYWksY2FueWluLDEyNDY2ODYsMTEwNjE3NjU4Niw3OSw3ODVhM2JjNzg0NzRlODQyOWQ1ZmNiMzdhMWFhNzU4NzEwMWQ0MzNjMWQ2N2I5ZTI1Yzc4ZTgwYTRmZWQyNmEw"
+                            }
+                        ]
+                    },
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/3909d76c51298e6408c55af4e660ea5a.png",
+                                "http://file.baixing.net/201607/da51299d5d5979279b1f15f43f092245.png"
+                            ],
+                            "company": "上海夷水实业有限公司",
+                            "hasVideo": true,
+                            "image": "http://img6.baixing.net//1751d5f21036272730f3cd88013922e9.jpg_180x180",
+                            "labels": [
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/ae6095993b7653d210e3b48bba59f3e8.png"
+                                },
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/287290442d89b707971abe64f98f07ae.png"
+                                },
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/a3255bab9f7355e79a2d3723a5bb66ed.png"
+                                }
+                            ],
+                            "lat": "31.140826372383",
+                            "lng": "121.30049750546",
+                            "meta": "",
+                            "time": "1553643935",
+                            "title": "好水当然一次性桶装水（免押金，免回桶）",
+                            "updateTimeString": "3月27日",
+                            "user": {
+                                "badges": [],
+                                "id": "u198202633",
+                                "image": "http://img4.baixing.net/31a8dd9e821a2837463dbc0db3b61457.jpg_180x180",
+                                "mobile": "17749730073",
+                                "subtitle": "上海",
+                                "title": "鹅匠水业～天然饮用水"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1106176586",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1106176586",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1106176586",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "0"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=17749730073&adId=1106176586",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1222582740&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/da51299d5d5979279b1f15f43f092245.png"
+                            ],
+                            "company": "上海鲜捷食用农产品有限公司普陀分公司",
+                            "hasVideo": false,
+                            "image": "http://img4.baixing.net/358aaee98254db295e44c714f4bf73a8.jpg_180x180",
+                            "labels": [
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/ae6095993b7653d210e3b48bba59f3e8.png"
+                                },
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/287290442d89b707971abe64f98f07ae.png"
+                                },
+                                {
+                                    "type": "url",
+                                    "url": "http://file.baixing.net/201607/a3255bab9f7355e79a2d3723a5bb66ed.png"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1551948020",
+                            "title": "专业提供蔬菜、水产、海鲜、内禽、冻品、粮油等",
+                            "updateTimeString": "3月7日",
+                            "user": {
+                                "badges": [],
+                                "id": "u68357565",
+                                "image": "http://img4.baixing.net/6b1f4b08759db71f0b7b500b09de8b13.png_180x180",
+                                "mobile": "13331967778",
+                                "subtitle": "上海",
+                                "title": "用户_2272320"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1222582740",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1222582740",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1222582740",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=13331967778&adId=1222582740",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1455001242&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/da51299d5d5979279b1f15f43f092245.png"
+                            ],
+                            "company": "",
+                            "hasVideo": true,
+                            "image": "http://img6.baixing.net/e1b2b151b85af50804490ccef402d876.jpg_180x180",
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "上海-嘉定",
+                            "time": "1551444299",
+                            "title": "桶装水大量配送15921285091",
+                            "updateTimeString": "3月1日",
+                            "user": {
+                                "badges": [],
+                                "id": "u179960812",
+                                "image": "http://img5.baixing.net/4c1349ad819118b1ff4a2b16c191a255.png_180x180",
+                                "mobile": "15921285091",
+                                "subtitle": "上海",
+                                "title": "小百姓16033143148"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1455001242",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1455001242",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1455001242",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "1"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=15921285091&adId=1455001242",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1769497620&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/4906f20df48b8050a95a852b59f97403.png"
+                            ],
+                            "company": "上海浦岩石油化工有限公司",
+                            "hasVideo": true,
+                            "image": "http://img6.baixing.net//f0be9206812611968a6eabc8cb901f0e.png_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554643389",
+                            "title": "锅炉燃油配送 锅炉柴油批发 锅炉柴油价格酒店燃油配",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u174704530",
+                                "image": "http://img4.baixing.net/cc111f5197053ddbfd53a1b5213161d6.jpg_180x180",
+                                "mobile": "13681658369",
+                                "subtitle": "上海",
+                                "title": "柴油配送13681658369"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1769497620",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1769497620",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1769497620",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "0"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=13681658369&adId=1769497620",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1792295554&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/4906f20df48b8050a95a852b59f97403.png"
+                            ],
+                            "company": "上海浦岩石油化工有限公司",
+                            "hasVideo": false,
+                            "image": "http://img4.baixing.net/3cc6ab3c2ee0089c3544f4bbc7174efa.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "31.143125876179",
+                            "lng": "121.50308581285",
+                            "meta": "",
+                            "time": "1554618076",
+                            "title": "上海柴油配送柴油批发配送柴油柴油销售",
+                            "updateTimeString": "20小时前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u174704530",
+                                "image": "http://img4.baixing.net/cc111f5197053ddbfd53a1b5213161d6.jpg_180x180",
+                                "mobile": "13681658369",
+                                "subtitle": "上海",
+                                "title": "柴油配送13681658369"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1792295554",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1792295554",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1792295554",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=13681658369&adId=1792295554",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1801324865&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/e71cd3805924ee8956556b5c2fd43bdf.jpg_180x180",
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "上海-徐汇",
+                            "time": "1554689240",
+                            "title": "徐汇区上海南站专业各种跑腿代办服务异地代办代买代送",
+                            "updateTimeString": "16分钟前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u230723154",
+                                "image": "http://img5.baixing.net/a5f10f548360572b098f7db6b804a0ba.png_180x180",
+                                "mobile": "13681959291",
+                                "subtitle": "上海",
+                                "title": "小百姓11081805991"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1801324865",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1801324865",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1801324865",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=13681959291&adId=1801324865",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1109432710&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海降温冰块订购：177 1705 4531",
+                            "hasVideo": true,
+                            "image": "http://video.baixing.net/FtYNQrsY9eQpZvhglfnMzB6CSFPV.mp4000001.jpg_sq180",
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554689193",
+                            "title": "闵行颛桥镇降温冰块/闵行区购买大冰块/工业降温冰块",
+                            "updateTimeString": "17分钟前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u198524130",
+                                "image": "http://img4.baixing.net/98ce4a78f28c40df26b19ffb6f512dad.jpg_180x180",
+                                "mobile": "17717054531",
+                                "subtitle": "上海",
+                                "title": "上海富民降温冰块17717054531"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1109432710",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1109432710",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1109432710",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "0"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=17717054531&adId=1109432710",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D892751175&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "九亭送水站",
+                            "hasVideo": false,
+                            "image": "http://img4.baixing.net/666849cd232015c223f9ed07c5720ab9.jpg_180x180",
+                            "labels": [],
+                            "lat": "31.146613562401",
+                            "lng": "121.31605024065",
+                            "meta": "上海-松江",
+                            "time": "1554688131",
+                            "title": "九亭送水站（摩卡小城店）",
+                            "updateTimeString": "34分钟前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u127804749",
+                                "image": "http://img5.baixing.net/19b5d59d5ef51b3dd565a729c6602b9f.jpg_180x180",
+                                "mobile": "18001916195",
+                                "subtitle": "上海",
+                                "title": "九亭送水站"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "892751175",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "892751175",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "892751175",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=18001916195&adId=892751175",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1801266900&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "",
+                            "hasVideo": false,
+                            "image": "http://img5.baixing.net/77c2a0350fd24e02e9c99ea275a5465d.jpg_180x180",
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554686810",
+                            "title": "静安乌镇路跑腿代办服务排队取号帮买帮送取文件代接送",
+                            "updateTimeString": "56分钟前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u227321718",
+                                "image": "http://img6.baixing.net/b65900753d706694651f6379b47b97cf.png_180x180",
+                                "mobile": "18701794889",
+                                "subtitle": "上海",
+                                "title": "小百姓04101810900"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1801266900",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1801266900",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1801266900",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=18701794889&adId=1801266900",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1801206743&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海仙延",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/b06e410f9890a00d79aabb1dd6569d70.jpg_180x180",
+                            "labels": [],
+                            "lat": "31.288902869061",
+                            "lng": "121.4973346364",
+                            "meta": "上海-虹口",
+                            "time": "1554683406",
+                            "title": "虹口区送水公司虹口区订水电话虹口区哇哈哈虹口区雀巢",
+                            "updateTimeString": "1小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u31604151",
+                                "image": "http://img5.baixing.net/49c5f83fdb9fbf139d4a68775268313f.png_180x180",
+                                "mobile": "021-35325023",
+                                "subtitle": "上海",
+                                "title": "zk416643423"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1801206743",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1801206743",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1801206743",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-35325023&adId=1801206743",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1379045943&vadStyle=dawn",
+                    "billing": {
+                        "onDisplay": [
+                            {
+                                "token": "cpm_c2hhbmdoYWksY2FueWluLDEwMjQ5NzksMTM3OTA0NTk0Myw3OSxjNTU5ZjU2NTE5NjRjYjI3MWRkODU2MjFiOGFmYmNmYzU3NDlmODk2N2ExMWVmODE3YzYzZjk1MWE3ZDQ2OTcy"
+                            }
+                        ]
+                    },
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/3b198a23e54d3476d2f61404e55c12f3.png"
+                            ],
+                            "company": "上海市浦东新区惠南镇鸿路食品店",
+                            "hasVideo": false,
+                            "image": "http://img5.baixing.net/d1851da48acadc074318077b04f0c640.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "31.060070056763",
+                            "lng": "121.77709113123",
+                            "meta": "",
+                            "time": "1537857026",
+                            "title": "雀巢特许专营水站桶装水配送雀巢 农夫山泉 娃哈哈",
+                            "updateTimeString": "",
+                            "user": {
+                                "badges": [],
+                                "id": "u227633322",
+                                "image": "http://img6.baixing.net/82fd2bdbf90d8befa221cb5828a9e00a.jpg_180x180",
+                                "mobile": "18916889993",
+                                "subtitle": "上海",
+                                "title": "雀巢优活好水送到家"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1379045943",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1379045943",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1379045943",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=18916889993&adId=1379045943",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1801200263&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海仙延",
+                            "hasVideo": false,
+                            "image": "http://img5.baixing.net/1c4e078ccfb5f210bec1732d3a397c2f.jpg_180x180",
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "上海-闸北",
+                            "time": "1554682886",
+                            "title": "大宁灵石公园送水共和新路哇哈哈闸北公园雀巢送水",
+                            "updateTimeString": "2小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u31604151",
+                                "image": "http://img5.baixing.net/49c5f83fdb9fbf139d4a68775268313f.png_180x180",
+                                "mobile": "021-35325023",
+                                "subtitle": "上海",
+                                "title": "zk416643423"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1801200263",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1801200263",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1801200263",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-35325023&adId=1801200263",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1800943632&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "一般挂在客厅墙上的液晶电视机安装要挂多高？",
+                            "hasVideo": false,
+                            "image": null,
+                            "labels": [],
+                            "lat": "31.264345760148",
+                            "lng": "121.51875897488",
+                            "meta": "",
+                            "time": "1554653141",
+                            "title": "一般挂在客厅墙上的液晶电视机安装要挂多高？",
+                            "updateTimeString": "10小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u200350837",
+                                "image": "http://img4.baixing.net/349adb5311bcc1b8982ded1794d91f34.png_180x180",
+                                "mobile": "17701874049",
+                                "subtitle": "上海",
+                                "title": "小百姓17060411140"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1800943632",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1800943632",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1800943632",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=17701874049&adId=1800943632",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1635646135&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": null,
+                            "hasVideo": false,
+                            "image": "http://img5.baixing.net/179f54bbd072121b82f5f63f9b21a1d1.jpg_180x180",
+                            "labels": [],
+                            "lat": null,
+                            "lng": null,
+                            "meta": "上海-奉贤",
+                            "time": "1554644121",
+                            "title": "rush",
+                            "updateTimeString": "12小时前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u92868940",
+                                "image": "http://img6.baixing.net/b471de17e08491935ee15abeab3ec827.jpg_180x180",
+                                "mobile": "15221048099",
+                                "subtitle": "上海",
+                                "title": "高端大牌内裤批发"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1635646135",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1635646135",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1635646135",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": null,
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fkuaidi%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dkuaidi%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dkuaidi%26cityId%3DPARAM_CITY_ID&title=%E7%89%A9%E6%B5%81&categoryId=kuaidi&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dkuaidi%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "货运物流"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fsheyingfuwu%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dsheyingfuwu%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dsheyingfuwu%26cityId%3DPARAM_CITY_ID&title=%E6%91%84%E5%BD%B1%E6%91%84%E5%83%8F&categoryId=sheyingfuwu&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dsheyingfuwu%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "摄影服务"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fbaomu%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dbaomu%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dbaomu%26cityId%3DPARAM_CITY_ID&title=%E4%BF%9D%E5%A7%86%2F%E6%9C%88%E5%AB%82&categoryId=baomu&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dbaomu%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "保姆/月嫂"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fjiancaizhuangshi%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Djiancaizhuangshi%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Djiancaizhuangshi%26cityId%3DPARAM_CITY_ID&title=%E5%BB%BA%E6%9D%90&categoryId=jiancaizhuangshi&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Djiancaizhuangshi%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "建材服务"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fbanjia%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dbanjia%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dbanjia%26cityId%3DPARAM_CITY_ID&title=%E6%90%AC%E5%AE%B6&categoryId=banjia&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dbanjia%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "搬家服务"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list_multi_select?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fgongren%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dgongren%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dgongren%26cityId%3DPARAM_CITY_ID&title=%E5%B7%A5%E4%BA%BA%E6%8A%80%E5%B7%A5&categoryId=gongren&hideImage=1&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dgongren%26cityId%3DPARAM_CITY_ID&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "工人/技工"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fbaojieqingxi%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dbaojieqingxi%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dbaojieqingxi%26cityId%3DPARAM_CITY_ID&title=%E4%BF%9D%E6%B4%81%E6%B8%85%E6%B4%97&categoryId=baojieqingxi&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dbaojieqingxi%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "保洁清洗"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list_multi_select?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fsiji%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dsiji%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dsiji%26cityId%3DPARAM_CITY_ID&title=%E5%8F%B8%E6%9C%BA&categoryId=siji&hideImage=1&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dsiji%26cityId%3DPARAM_CITY_ID&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "司机"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fjiadianweixiu%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Djiadianweixiu%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Djiadianweixiu%26cityId%3DPARAM_CITY_ID&title=%E5%AE%B6%E7%94%B5%E7%BB%B4%E4%BF%AE&categoryId=jiadianweixiu&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Djiadianweixiu%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "家电维修"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fjiatingzhuangxiu%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Djiatingzhuangxiu%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Djiatingzhuangxiu%26cityId%3DPARAM_CITY_ID&title=%E5%AE%B6%E8%A3%85&categoryId=jiatingzhuangxiu&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Djiatingzhuangxiu%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "家庭装修"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fdiannaoweixiu%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Ddiannaoweixiu%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Ddiannaoweixiu%26cityId%3DPARAM_CITY_ID&title=%E7%94%B5%E8%84%91%E7%BB%B4%E4%BF%AE&categoryId=diannaoweixiu&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Ddiannaoweixiu%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "电脑维修"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fwupinhuishou%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dwupinhuishou%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dwupinhuishou%26cityId%3DPARAM_CITY_ID&title=%E7%89%A9%E5%93%81%E5%9B%9E%E6%94%B6&categoryId=wupinhuishou&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dwupinhuishou%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "物品回收"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list_multi_select?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fsonghuoyuan%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dsonghuoyuan%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dsonghuoyuan%26cityId%3DPARAM_CITY_ID&title=%E4%BB%93%E7%AE%A1%E5%BF%AB%E9%80%92&categoryId=songhuoyuan&hideImage=1&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dsonghuoyuan%26cityId%3DPARAM_CITY_ID&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "运输/物流/仓管"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fjiaxiaofuwu%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Djiaxiaofuwu%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Djiaxiaofuwu%26cityId%3DPARAM_CITY_ID&title=%E9%A9%BE%E6%A0%A1&categoryId=jiaxiaofuwu&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Djiaxiaofuwu%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "驾校服务"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fqitafuwu%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Dqitafuwu%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Dqitafuwu%26cityId%3DPARAM_CITY_ID&title=%E5%85%B6%E4%BB%96%E6%9C%8D%E5%8A%A1&categoryId=qitafuwu&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Dqitafuwu%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "其他服务"
+                        },
+                        "style": "tagItem"
+                    }
+                },
+                {
+                    "action": "bxapp://general_list?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2Fjiameng%2Fad%3FapiFormatter%3DAdList%26suggestOn%3D1%26AF_adList%3Dcategory%26structure%3Dumbrella&filterUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingFilters%2F%3FcategoryId%3Djiameng%26cityId%3DPARAM_CITY_ID&defaults=%7B%22area%22%3A%7B%22value%22%3A%22PARAM_CITY_ID%22%2C%22label%22%3A%22%E5%9C%B0%E5%8C%BA%22%7D%7D&bannerUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingBanners%2F%3FcategoryId%3Djiameng%26cityId%3DPARAM_CITY_ID&title=%E6%8B%9B%E5%95%86%E5%8A%A0%E7%9B%9F&categoryId=jiameng&3rdAd=baidu&rightActions=%5B%22only_video_switch%22%5D&bottomActionsUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FGeneralList.listingActions%2F%3FcategoryId%3Djiameng%26cityId%3DPARAM_CITY_ID&hideImage=1&canSwitchBetweenWaterfallAndNormal=0",
+                    "display": {
+                        "content": {
+                            "title": "招商加盟"
+                        },
+                        "style": "tagItem"
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "title": "大家都在看"
+                },
+                "style": "tagList"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1030080125&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海市松江区得勤食品经营部",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/89926fa10bd2910e29f4f817fb73444f.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "0.0",
+                            "lng": "0.0",
+                            "meta": "上海-松江",
+                            "time": "1554642914",
+                            "title": "泗泾送水站",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u118790226",
+                                "image": "http://img4.baixing.net/0b59d59b3d9df0041303c3d6a60b823a.jpg_180x180",
+                                "mobile": "18317125613",
+                                "subtitle": "上海",
+                                "title": "187357421805402"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1030080125",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1030080125",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1030080125",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=18317125613&adId=1030080125",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1443478681&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海千盛制冰厂",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/e4839bcb030fa14ec419ed604f0ee07a.jpg_180x180",
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554642847",
+                            "title": "上海降温冰块公司 免费送到",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u168257355",
+                                "image": "http://img6.baixing.net/2642de69a3bbb98a07a6af998607f10c.png_180x180",
+                                "mobile": "400-638-0556",
+                                "subtitle": "上海",
+                                "title": "小百姓151217214553"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1443478681",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1443478681",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1443478681",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=400-638-0556&adId=1443478681",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1448585612&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/842526964deb7b7001393457ddbadd1f.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "个人已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554642668",
+                            "title": "上海降温冰块销售 上海大冰块销售",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u64282891",
+                                "image": "http://img6.baixing.net/2c1d2409040b1d0c0c7cece7e82efe56.jpg_180x180",
+                                "mobile": "021-52045755",
+                                "subtitle": "上海",
+                                "title": "上海专业吊装家具沙发床垫上楼"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1448585612",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1448585612",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1448585612",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-52045755&adId=1448585612",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D249004137&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海龙赞实业有限公司",
+                            "hasVideo": false,
+                            "image": "http://img4.baixing.net/6706800e9bb611e5773e27dbd68f06a1.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "31.304090617294",
+                            "lng": "121.4493091521",
+                            "meta": "",
+                            "time": "1554642262",
+                            "title": "闸北静安桶装水站 订水电话 订水送饮水机",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u70067320",
+                                "image": "http://img5.baixing.net/d7534e4e96aa6b3b65ba451dda925faa.png_180x180",
+                                "mobile": "18317096907",
+                                "subtitle": "上海",
+                                "title": "13482568241"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "249004137",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "249004137",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "249004137",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=18317096907&adId=249004137",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1394174292&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海冰块",
+                            "hasVideo": false,
+                            "image": "http://img5.baixing.net/a76178b95c01b23f13df6c7dd0508c01.jpg_180x180",
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554642077",
+                            "title": "上海制冰厂|食用冰块|工业降温大冰块",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u182688170",
+                                "image": "",
+                                "mobile": "021-56086778",
+                                "subtitle": "上海",
+                                "title": "小百姓16050927509"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1394174292",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1394174292",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1394174292",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-56086778&adId=1394174292",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1060714297&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海市松江区得勤食品经营部",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/89926fa10bd2910e29f4f817fb73444f.jpg_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "31.136786261015",
+                            "lng": "121.28240187488",
+                            "meta": "上海-松江",
+                            "time": "1554641597",
+                            "title": "泗泾郑壹祥桶装水配送中心",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u118790226",
+                                "image": "http://img4.baixing.net/0b59d59b3d9df0041303c3d6a60b823a.jpg_180x180",
+                                "mobile": "18317125613",
+                                "subtitle": "上海",
+                                "title": "187357421805402"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1060714297",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1060714297",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1060714297",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=18317125613&adId=1060714297",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1016865582&vadStyle=dawn",
+                    "billing": {
+                        "onDisplay": [
+                            {
+                                "token": "cpm_c2hhbmdoYWksY2FueWluLDExMzg0MTgsMTAxNjg2NTU4Miw3OSwxYTM3NzExNzIwYzgxMDI4NThmZmQzYmNhYWExYjlhMjE1MzBhOTAxMTZjZWY1NjIzYzY3NDQ0YzRjMTNmYjc4"
+                            }
+                        ]
+                    },
+                    "display": {
+                        "content": {
+                            "badges": [
+                                "http://file.baixing.net/201607/3b198a23e54d3476d2f61404e55c12f3.png"
+                            ],
+                            "company": "上海釜雅商贸有限公司",
+                            "hasVideo": false,
+                            "image": "http://img5.baixing.net/1ef3f05c2e4e0d2a61bdb3c4e06bc344.jpg_180x180",
+                            "labels": [],
+                            "lat": "31.205302",
+                            "lng": "121.466005",
+                            "meta": "上海-浦东新区",
+                            "time": "1468858987",
+                            "title": "配送",
+                            "updateTimeString": "",
+                            "user": {
+                                "badges": [],
+                                "id": "u106968802",
+                                "image": "http://img5.baixing.net/71fd1585d231996597c34e831c06aa12.jpg_180x180",
+                                "mobile": "13248179701",
+                                "subtitle": "上海",
+                                "title": "百姓_371225399890608"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1016865582",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1016865582",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1016865582",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=13248179701&adId=1016865582",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1382610901&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海玉祝贸易有限公司",
+                            "hasVideo": true,
+                            "image": "http://img5.baixing.net/7b93b9ab5aae6569022dfb470c71f107.JPG_180x180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554641048",
+                            "title": "供应上海全市食用冰块 降温冰块 干冰 1小时送达",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u135671285",
+                                "image": "http://img5.baixing.net/19c6ca2b1678634a2183517dcdc6bb93.jpg_180x180",
+                                "mobile": "021-56096829",
+                                "subtitle": "上海",
+                                "title": "上海东琳降温冰块食用冰块干冰配送公司"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1382610901",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1382610901",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1382610901",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "1"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-56096829&adId=1382610901",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1373671800&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "上海制冰厂",
+                            "hasVideo": false,
+                            "image": "http://img6.baixing.net/e5acc31f258f021313470899a2ce05c3.jpg_180x180",
+                            "labels": [],
+                            "lat": "31.356314",
+                            "lng": "121.372722",
+                            "meta": "",
+                            "time": "1554640147",
+                            "title": "上海降温冰块-上海冰块公司-工业冰块上海制冰公司",
+                            "updateTimeString": "13小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u95807556",
+                                "image": "http://img4.baixing.net/0eb0586df5b53475a144b4bb9664108e.png_180x180",
+                                "mobile": "021-56086778",
+                                "subtitle": "上海",
+                                "title": "bxuser2628655"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1373671800",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1373671800",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1373671800",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-56086778&adId=1373671800",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1360024142&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "",
+                            "hasVideo": false,
+                            "image": null,
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554639551",
+                            "title": "专业各种跑腿业务代办代送代排队买东西代购",
+                            "updateTimeString": "14小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u227159969",
+                                "image": "http://img5.baixing.net/a5f10f548360572b098f7db6b804a0ba.png_180x180",
+                                "mobile": "15516593067",
+                                "subtitle": "上海",
+                                "title": "小百姓04021807514"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1360024142",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1360024142",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1360024142",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=15516593067&adId=1360024142",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1431452202&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "",
+                            "hasVideo": true,
+                            "image": "http://video.baixing.net/FtdcLgctsGY-dr90MQdl8g2BEVAk.mp4000001.jpg_sq180",
+                            "labels": [
+                                {
+                                    "border": 0,
+                                    "size": 1,
+                                    "text": "公司已认证",
+                                    "textColor": "#00D0C0",
+                                    "type": "text"
+                                }
+                            ],
+                            "lat": "31.259390312356",
+                            "lng": "121.37336174771",
+                            "meta": "上海-嘉定",
+                            "time": "1554639366",
+                            "title": "上海利民制冰厂，提供降温冰块食用冰块，全市可配送",
+                            "updateTimeString": "14小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u99206815",
+                                "image": "http://img4.baixing.net/65dc79c477773ab078c54921b7c37eab.png_180x180",
+                                "mobile": "021-65022186",
+                                "subtitle": "上海",
+                                "title": "小百姓150809119192"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1431452202",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1431452202",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1431452202",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item",
+                            "synthesis": "0"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=021-65022186&adId=1431452202",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1800802584&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "闵行区吴中路安装电视机支架液晶电视机挂架电视安装",
+                            "hasVideo": false,
+                            "image": null,
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554638521",
+                            "title": "闵行区吴中路安装电视机支架液晶电视机挂架电视安装",
+                            "updateTimeString": "14小时前更新",
+                            "user": {
+                                "badges": [],
+                                "id": "u200350527",
+                                "image": "http://img6.baixing.net/8f5515839489caa487d3a0710cf95843.png_180x180",
+                                "mobile": "17721083476",
+                                "subtitle": "上海",
+                                "title": "小百姓17060410916"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": false,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1800802584",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1800802584",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1800802584",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=17721083476&adId=1800802584",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        },
+        {
+            "children": [
+                {
+                    "action": "bxapp://ad/?dataSourceUrl=http%3A%2F%2Fwww.baixing.com%2Fapi%2Fmobile%2FAd.ads%2F%3FadIds%3D1800796727&vadStyle=dawn",
+                    "billing": null,
+                    "display": {
+                        "content": {
+                            "badges": [],
+                            "company": "长宁区新华路液晶电视支架安装液晶电视挂架拆移安装",
+                            "hasVideo": false,
+                            "image": null,
+                            "labels": [],
+                            "lat": "",
+                            "lng": "",
+                            "meta": "",
+                            "time": "1554637986",
+                            "title": "长宁区新华路液晶电视支架安装液晶电视挂架拆移安装",
+                            "updateTimeString": "14小时前更新",
+                            "user": {
+                                "badges": [
+                                    "http://s.baixing.net/img/app/icons/badges/new/user/chat_online.png"
+                                ],
+                                "id": "u198025159",
+                                "image": "http://img5.baixing.net/a92e6a9bdecd924c663ee66087cd4564.png_180x180",
+                                "mobile": "18616725823",
+                                "subtitle": "上海",
+                                "title": "小百姓17032416118"
+                            }
+                        },
+                        "style": "service_ad_item"
+                    },
+                    "extra": {
+                        "chatOnline": true,
+                        "cpcToken": null,
+                        "delete": false,
+                        "done": null
+                    },
+                    "source": {
+                        "categoryId": "canyin",
+                        "cityEnglishName": "shanghai",
+                        "id": "1800796727",
+                        "status": "0"
+                    },
+                    "track": {
+                        "onClick": {
+                            "ID": "1800796727",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        },
+                        "onDisplay": {
+                            "ID": "1800796727",
+                            "event": "Listing_Display",
+                            "item_category": "canyin",
+                            "item_city": "shanghai",
+                            "item_source": "baixing",
+                            "item_type": "ad",
+                            "style": "service_ad_item"
+                        }
+                    }
+                },
+                {
+                    "action": "bxapp://call?mobile=18616725823&adId=1800796727",
+                    "display": {
+                        "content": {
+                            "buttonImage": "http://file.baixing.net/201702/7bf713c4730119544b722555dee21c85.png"
+                        },
+                        "style": "ad_action_item"
+                    },
+                    "track": {
+                        "onClick": {
+                            "action": "call",
+                            "category_name_en": "canyin",
+                            "event": "Listing_Action_Click"
+                        }
+                    }
+                }
+            ],
+            "display": {
+                "content": {
+                    "partition": [
+                        "0.84",
+                        "0.16"
+                    ]
+                },
+                "style": "horizontal_ad_block"
+            }
+        }
+    ]
+}
