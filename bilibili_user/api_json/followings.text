@@ -1,0 +1,471 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "list": [
+            {
+                "mid": 10569997,
+                "attribute": 0,
+                "mtime": 1554399240,
+                "tag": null,
+                "special": 0,
+                "uname": "七方方小宝贝",
+                "face": "http://i2.hdslb.com/bfs/face/cc2330307ed20343b2e7a9c9ac500efda4b222d8.jpg",
+                "sign": "萌萌小透明",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 1,
+                    "vipDueDate": 1513094400000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 102885422,
+                "attribute": 0,
+                "mtime": 1552848317,
+                "tag": null,
+                "special": 0,
+                "uname": "点滴菌",
+                "face": "http://i2.hdslb.com/bfs/face/fd8c1c3a5a454c75eafe12464989e9d794179d29.jpg",
+                "sign": "19-22点直播。微博/公众号：@点滴菌。商务合作邮箱：diandijun@163.com",
+                "official_verify": {
+                    "type": 0,
+                    "desc": "bilibili 知名UP主"
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1579881600000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 533575,
+                "attribute": 0,
+                "mtime": 1551761928,
+                "tag": null,
+                "special": 0,
+                "uname": "间月",
+                "face": "http://i0.hdslb.com/bfs/face/756a40bdd89c165f2930c671e88173a481c1a4df.jpg",
+                "sign": "I hear you everywhere",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 1,
+                    "vipDueDate": 1550851200000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 8034163,
+                "attribute": 0,
+                "mtime": 1550888403,
+                "tag": null,
+                "special": 0,
+                "uname": "浅澄月",
+                "face": "http://i2.hdslb.com/bfs/face/512fd36e0fb24746f04aa1073ea89c1a2f91f7e1.jpg",
+                "sign": "新浪微博：浅澄月 辣条厂房群：580485688 商务合作及推广请对接vx：da18012685548",
+                "official_verify": {
+                    "type": 0,
+                    "desc": "bilibili 2018百大UP主、 知名UP主"
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1599494400000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 15997987,
+                "attribute": 0,
+                "mtime": 1550411339,
+                "tag": null,
+                "special": 0,
+                "uname": "关腿屁事",
+                "face": "http://i1.hdslb.com/bfs/face/9601a8bf26e1f26591eb2ff76c13511ce2ce985b.jpg",
+                "sign": "退了 不玩了 送礼物是自动 跟我无关 送到20就不续费了 不氪金挺容易进小黑屋的 还早 有些东西消了转了又挺舍不得的 该设置的都设置了 ",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 0,
+                    "vipDueDate": 0,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 48490629,
+                "attribute": 0,
+                "mtime": 1549163276,
+                "tag": null,
+                "special": 0,
+                "uname": "叶玄晓",
+                "face": "http://i1.hdslb.com/bfs/face/09aa9e3a45ee7e7544a1ca7fb51d51b9e309c33e.jpg",
+                "sign": "佛系中～",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 0,
+                    "vipDueDate": 0,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 303956424,
+                "attribute": 0,
+                "mtime": 1547313098,
+                "tag": null,
+                "special": 0,
+                "uname": "当然是最可爱的阿芒啦",
+                "face": "http://i2.hdslb.com/bfs/face/434421175556287c9c98dd5f1698e87c9a5495b0.jpg",
+                "sign": "可爱的我耐比我还可爱的你们",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 0,
+                    "vipDueDate": 0,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 20247643,
+                "attribute": 0,
+                "mtime": 1546603967,
+                "tag": null,
+                "special": 0,
+                "uname": "拉环儿_",
+                "face": "http://i1.hdslb.com/bfs/face/0944086f3a234305a1a6692aefe84da87944aa18.jpg",
+                "sign": "我不做人啦！！",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1600358400000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 3404595,
+                "attribute": 0,
+                "mtime": 1544996828,
+                "tag": null,
+                "special": 0,
+                "uname": "卡布叻_周深",
+                "face": "http://i0.hdslb.com/bfs/face/ed8eaf774b11ff697a051df2b7fa394418680006.jpg",
+                "sign": "我是一条很懒的咸鱼。。",
+                "official_verify": {
+                    "type": 0,
+                    "desc": "歌手 周深"
+                },
+                "vip": {
+                    "vipType": 0,
+                    "vipDueDate": 0,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 75605576,
+                "attribute": 0,
+                "mtime": 1544885065,
+                "tag": null,
+                "special": 0,
+                "uname": "满心欢喜欢你",
+                "face": "http://i1.hdslb.com/bfs/face/dcccf14941a2d2931622c81609c3331ca4572e92.jpg",
+                "sign": "未闻其声，仍能感知你在身边。",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 0,
+                    "vipDueDate": 0,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 1771405,
+                "attribute": 0,
+                "mtime": 1542345965,
+                "tag": null,
+                "special": 0,
+                "uname": "腹黑的蔻蔻",
+                "face": "http://i0.hdslb.com/bfs/face/f2d46bbdf5fb49eb22470ad403793aba3a25c1c7.jpg",
+                "sign": "毒舌腹黑呆萌傲娇\\(//∇//)\\",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 1,
+                    "vipDueDate": 1547395200000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 17338839,
+                "attribute": 0,
+                "mtime": 1541692687,
+                "tag": null,
+                "special": 0,
+                "uname": "苍茕ッ",
+                "face": "http://i2.hdslb.com/bfs/face/63b4d8bff9b2c82153941b9aae6749c7b4a2f5d3.jpg",
+                "sign": "我不是人民币 做不到人人都喜欢",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1556640000000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 6144768,
+                "attribute": 0,
+                "mtime": 1541685293,
+                "tag": null,
+                "special": 0,
+                "uname": "乂黎ふん",
+                "face": "http://i2.hdslb.com/bfs/face/b847846172635b38e39df7e65d9212d90363b60e.jpg",
+                "sign": "声音好听脾气差点怎么啦？（直播时间晚上十二点准时下播，开播哈哈哈）",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 0,
+                    "vipDueDate": 0,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 36825256,
+                "attribute": 0,
+                "mtime": 1540546915,
+                "tag": null,
+                "special": 0,
+                "uname": "槐安遗梦",
+                "face": "http://i1.hdslb.com/bfs/face/a7b82ad44b0194430bc9d8a6ebc94d418ec1b085.jpg",
+                "sign": "等我熬尽一日苦，喂你一口甜。 ",
+                "official_verify": {
+                    "type": 0,
+                    "desc": "bilibili 知名游戏UP主、直播签约主播"
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1586188800000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 47611930,
+                "attribute": 0,
+                "mtime": 1540546715,
+                "tag": null,
+                "special": 0,
+                "uname": "巫师之昆特牌",
+                "face": "http://i2.hdslb.com/bfs/face/6c3c9c95bbff5fafad0958ea65cd6bd306d0b24e.jpg",
+                "sign": "资讯统合思念体，人形打牌AI，阿昆20001",
+                "official_verify": {
+                    "type": 1,
+                    "desc": "巫师之昆特牌官方账号"
+                },
+                "vip": {
+                    "vipType": 0,
+                    "vipDueDate": 0,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 41920318,
+                "attribute": 0,
+                "mtime": 1540546604,
+                "tag": null,
+                "special": 0,
+                "uname": "安vvv迪",
+                "face": "http://i2.hdslb.com/bfs/face/3893e5052af28ad4e8ac2b621a4ab74cbe87d935.jpg",
+                "sign": "",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 1,
+                    "vipDueDate": 1553097600000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 0,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 245093784,
+                "attribute": 0,
+                "mtime": 1540056886,
+                "tag": null,
+                "special": 0,
+                "uname": "沅沅妹妹",
+                "face": "http://i0.hdslb.com/bfs/face/dc99cc6a3ff078158e72bc8cfcd9e4660306bfa9.jpg",
+                "sign": "游戏人生＿空白",
+                "official_verify": {
+                    "type": -1,
+                    "desc": ""
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1593619200000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 37090048,
+                "attribute": 0,
+                "mtime": 1538762727,
+                "tag": null,
+                "special": 0,
+                "uname": "哔哩哔哩创作中心",
+                "face": "http://i0.hdslb.com/bfs/face/01365904ffb64d1858da7e20e1040b9f2d94165d.jpg",
+                "sign": "这里是up主心中最可爱的创作中心！用心支持创作、扶持up主成长，这里有创作中心新功能/使用指导/up主学园/激励计划一手情报！",
+                "official_verify": {
+                    "type": 1,
+                    "desc": "哔哩哔哩创作中心官方账号"
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1568390400000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 37672137,
+                "attribute": 0,
+                "mtime": 1538289782,
+                "tag": null,
+                "special": 0,
+                "uname": "名字君不会混剪",
+                "face": "http://i1.hdslb.com/bfs/face/ac93684d7ca72c4466dfc8c00a978fba1ffa85d1.jpg",
+                "sign": "时而大片，时而沙雕 (ฅ>ω<ฅ) // 联系邮箱：178708928@qq.com",
+                "official_verify": {
+                    "type": 0,
+                    "desc": "bilibili 知名UP主"
+                },
+                "vip": {
+                    "vipType": 2,
+                    "vipDueDate": 1581782400000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            },
+            {
+                "mid": 8730238,
+                "attribute": 0,
+                "mtime": 1535402916,
+                "tag": null,
+                "special": 0,
+                "uname": "小熊flippy",
+                "face": "http://i0.hdslb.com/bfs/face/285290e3ebea8bd007909a7ddb0a486b54cbd29a.jpg",
+                "sign": "休闲玩家，娱乐解说。新浪微博：恐怖骑士熊",
+                "official_verify": {
+                    "type": 0,
+                    "desc": "bilibili 知名游戏UP主"
+                },
+                "vip": {
+                    "vipType": 1,
+                    "vipDueDate": 1560182400000,
+                    "dueRemark": "",
+                    "accessStatus": 0,
+                    "vipStatus": 1,
+                    "vipStatusWarn": "",
+                    "themeType": 0
+                }
+            }
+        ],
+        "re_version": 400598405,
+        "total": 35
+    }
+}

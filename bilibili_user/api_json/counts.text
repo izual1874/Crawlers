@@ -1,0 +1,12 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "mid": 8209464,
+        "following": 35,
+        "whisper": 0,
+        "black": 0,
+        "follower": 12712
+    }
+}

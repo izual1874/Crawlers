@@ -1,0 +1,33 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "mid": 1,
+        "name": "bishi",
+        "sex": "男",
+        "face": "http://i0.hdslb.com/bfs/face/34c5b30a990c7ce4a809626d8153fa7895ec7b63.gif",
+        "sign": "",
+        "rank": 10000,
+        "level": 4,
+        "jointime": 0,
+        "moral": 0,
+        "silence": 0,
+        "birthday": "09-19",
+        "coins": 701.2,
+        "fans_badge": false,
+        "official": {
+            "role": 0,
+            "title": "",
+            "desc": ""
+        },
+        "vip": {
+            "type": 2,
+            "status": 1,
+            "theme_type": 0
+        },
+        "is_followed": false,
+        "top_photo": "http://i0.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
+        "theme": {}
+    }
+}
